@@ -116,7 +116,7 @@ async def check_ban_command(ctx):
 
             # 🔗 Join link add here
             embed.add_field(
-                name="📌 JOIN : https://discord.gg/TUMHARA_LINK",
+                name="📌 JOIN : https://discord.gg/xtjxtM3upQ",
                 value="",
                 inline=False
             )
@@ -135,7 +135,7 @@ async def check_ban_command(ctx):
 
             # 🔗 Join link add here
             embed.add_field(
-                name="📌 JOIN : https://discord.gg/TUMHARA_LINK",
+                name="📌 JOIN : https://discord.gg/xtjxtM3upQ",
                 value="",
                 inline=False
             )
